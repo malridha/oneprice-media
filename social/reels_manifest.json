@@ -10,7 +10,8 @@
   "scheduled": "2026-11-05",
   "slot": "evening",
   "posted_media_id": "manual-2026-11-05",
-  "posted_at": "2026-11-05"
+  "posted_at": "2026-11-05",
+  "music": "(original score)"
  },
  {
   "id": "reel02-the-phone",
@@ -23,7 +24,8 @@
   "scheduled": "2026-11-09",
   "slot": "evening",
   "posted_media_id": "metricool-2026-11-09",
-  "posted_at": "2026-11-09"
+  "posted_at": "2026-11-09",
+  "music": "satie_gymnopedie1"
  },
  {
   "id": "reel03-the-house",
@@ -35,7 +37,8 @@
   "hashtags": "#onepriceseries #envy #jealousy #tencommandments #christianity #psychology #cbt #comparison #mindset #selfawareness #faith #personalgrowth #emotionalintelligence #religion #philosophy",
   "scheduled": "2026-11-23",
   "slot": "evening",
-  "posted_media_id": null
+  "posted_media_id": null,
+  "music": "ground_a_minor"
  },
  {
   "id": "reel04-the-child",
@@ -47,7 +50,8 @@
   "hashtags": "#onepriceseries #parenting #parentingtips #forgiveness #repair #christianity #psychology #fatherhood #motherhood #attachment #selfawareness #faith #family #emotionalintelligence #religion",
   "scheduled": "2026-11-24",
   "slot": "evening",
-  "posted_media_id": null
+  "posted_media_id": null,
+  "music": "pachelbel_canon"
  },
  {
   "id": "reel05-the-father",
@@ -59,7 +63,8 @@
   "hashtags": "#onepriceseries #parents #elderlycare #birr #dharma #islam #hinduism #family #gratitude #faith #caregiving #respect #religion #philosophy #selfawareness",
   "scheduled": "2026-11-25",
   "slot": "evening",
-  "posted_media_id": null
+  "posted_media_id": null,
+  "music": "satie_gymnopedie1"
  },
  {
   "id": "reel06-the-meeting",
@@ -71,6 +76,7 @@
   "hashtags": "#onepriceseries #anxiety #insomnia #sleep #tawakkul #islam #psychology #cbt #mentalhealth #stress #faith #selfawareness #overthinking #religion #calm",
   "scheduled": "2026-11-26",
   "slot": "evening",
-  "posted_media_id": null
+  "posted_media_id": null,
+  "music": "ground_a_minor"
  }
 ]
