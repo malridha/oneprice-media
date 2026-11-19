@@ -1,44 +1,76 @@
 [
  {
-  "id": "reel01-the-same-price", "theme": "thesis", "traditions": "all five", "lang": "en",
+  "id": "reel01-the-same-price",
+  "theme": "thesis",
+  "traditions": "all five",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel01-the-same-price.mp4",
   "caption": "Every religion asks you for the same thing. So does your therapist.\n\nI took the four religions with more than 300 million followers (Christianity, Islam, Hinduism, Buddhism) and added modern psychology as the fifth, and asked each one four questions: What is wrong with me? What fixes it? What do I have to give up? What do I get?\n\nThe answers to the first question are all different. Christianity says sin. Islam says forgetting. Hinduism says ignorance of who you are. Buddhism says craving. Psychology says distorted thinking.\n\nBut look at the third column, the price. Give up justifying yourself. Give up believing you are self-sufficient. Give up the small self. Give up the fixed self. Give up controlling your feelings.\n\nFive traditions that have fought wars with each other, and every one of them puts the same thing on the counter: your ego has to step down. Where they argue is about who replaces it.\n\nSave this. Read the third column again tomorrow. Then tell me I'm wrong.\n\nFive traditions. One problem. Your move.",
   "hashtags": "#onepriceseries #religion #psychology #islam #christianity #hinduism #buddhism #philosophy #selfawareness #ego #faith #comparativereligion",
-  "scheduled": "2026-11-05", "slot": "evening", "posted_media_id": "manual-2026-11-05", "posted_at": "2026-11-05"
+  "scheduled": "2026-11-05",
+  "slot": "evening",
+  "posted_media_id": "manual-2026-11-05",
+  "posted_at": "2026-11-05"
  },
  {
-  "id": "reel02-the-phone", "theme": "struggle-01 phone", "traditions": "Buddhism vs Islam", "lang": "en",
+  "id": "reel02-the-phone",
+  "theme": "struggle-01 phone",
+  "traditions": "Buddhism vs Islam",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel02-the-phone.mp4",
   "caption": "You checked your phone 140 times today. And you feel empty.\n\nTwo traditions, one phone.\n\nA Buddhist teacher would say the hand reaching for the phone is craving in its purest form. Don't fight it. Watch the urge rise, give it a name, let it pass. You don't have to feed it even once.\n\nAn imam would say your day already has five interruptions built into it. Prayer is the original notification. And unlike the one on your screen, it points away from you, not at you.\n\nOne says watch the urge. One says replace it. Both agree the phone is not the problem; what you reach for is.\n\nStruggle 1 of 20. Which answer do you actually use? Tell me in the comments.\n\nFive traditions. One problem. Your move.",
   "hashtags": "#onepriceseries #phoneaddiction #mindfulness #salah #buddhism #islam #dopamine #digitaldetox #faith #psychology #selfawareness #screentime",
-  "scheduled": "2026-11-09", "slot": "evening", "posted_media_id": "metricool-2026-11-09", "posted_at": "2026-11-09"
+  "scheduled": "2026-11-09",
+  "slot": "evening",
+  "posted_media_id": "metricool-2026-11-09",
+  "posted_at": "2026-11-09"
  },
  {
-  "id": "reel03-the-house", "theme": "struggle-02 envy", "traditions": "Christianity vs Psychology", "lang": "en",
+  "id": "reel03-the-house",
+  "theme": "struggle-02 envy",
+  "traditions": "Christianity vs Psychology",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel03-the-house.mp4",
-  "caption": "Your friend just bought the house you wanted. And you said congratulations, and you meant maybe half of it.\n\nA priest would tell you: of the ten commandments, only one is about a feeling. Do not covet. Because envy does not take anything from him. It poisons everything you already have.\n\nA psychologist would tell you: envy is information. It is pointing at a value you have not acted on. Write down what the house means to you. Then take one step toward that, this week.\n\nOne calls it a sin. One calls it data. Both say the feeling is about you, not him.\n\nStruggle 2 of 20. Sin or data?\n\nFive traditions. One problem. Your move.",
-  "hashtags": "#onepriceseries #envy #tencommandments #cbt #christianity #psychology #comparison #selfawareness #faith #mindset",
-  "scheduled": "2026-11-23", "slot": "evening", "posted_media_id": null
+  "caption": "In plain terms: envy is not about your friend's house. It is a message about what you want and have not gone after. One tradition tells you to stop the feeling because it will rot you; the other tells you to read it and act on it. Both agree it is your problem to solve, not his.\n\nYour friend just bought the house you wanted. And you said congratulations, and you meant maybe half of it.\n\nA priest would tell you: of the ten commandments, only one is about a feeling. Do not covet. Because envy does not take anything from him. It poisons everything you already have.\n\nA psychologist would tell you: envy is information. It is pointing at a value you have not acted on. Write down what the house means to you. Then take one step toward that, this week.\n\nOne calls it a sin. One calls it data. Both say the feeling is about you, not him.\n\nStruggle 2 of 20. Sin or data?\n\nFive traditions. One problem. Your move.",
+  "hashtags": "#onepriceseries #envy #jealousy #tencommandments #christianity #psychology #cbt #comparison #mindset #selfawareness #faith #personalgrowth #emotionalintelligence #religion #philosophy",
+  "scheduled": "2026-11-23",
+  "slot": "evening",
+  "posted_media_id": null
  },
  {
-  "id": "reel04-the-child", "theme": "struggle-03 temper", "traditions": "Christianity vs Psychology", "lang": "en",
+  "id": "reel04-the-child",
+  "theme": "struggle-03 temper",
+  "traditions": "Christianity vs Psychology",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel04-the-child.mp4",
-  "caption": "You lost your temper with your child. And now the house is quiet, and you cannot take it back.\n\nChristianity says: no, you cannot take it back. But you can kneel in front of a six-year-old and ask to be forgiven. That is the whole faith in one gesture.\n\nPsychology says: the shouting is not the lesson. The repair is. Children do not need parents who never rupture. They need parents who come back and fix it, without excuses, within the hour.\n\nBoth say the same thing. The apology is what your child will remember.\n\nStruggle 3 of 20. Rupture and repair.\n\nFive traditions. One problem. Your move.",
-  "hashtags": "#onepriceseries #parenting #forgiveness #repair #christianity #psychology #fatherhood #motherhood #selfawareness #faith",
-  "scheduled": "2026-11-24", "slot": "evening", "posted_media_id": null
+  "caption": "In plain terms: you shouted, you cannot undo it, and that is fine, because what your child will remember is not the shout but whether you came back and said sorry. Faith calls that asking forgiveness; psychology calls it repair. Same act, same hour, same result.\n\nYou lost your temper with your child. And now the house is quiet, and you cannot take it back.\n\nChristianity says: no, you cannot take it back. But you can kneel in front of a six-year-old and ask to be forgiven. That is the whole faith in one gesture.\n\nPsychology says: the shouting is not the lesson. The repair is. Children do not need parents who never rupture. They need parents who come back and fix it, without excuses, within the hour.\n\nBoth say the same thing. The apology is what your child will remember.\n\nStruggle 3 of 20. Rupture and repair.\n\nFive traditions. One problem. Your move.",
+  "hashtags": "#onepriceseries #parenting #parentingtips #forgiveness #repair #christianity #psychology #fatherhood #motherhood #attachment #selfawareness #faith #family #emotionalintelligence #religion",
+  "scheduled": "2026-11-24",
+  "slot": "evening",
+  "posted_media_id": null
  },
  {
-  "id": "reel05-the-father", "theme": "struggle-04 ageing parent", "traditions": "Islam vs Hinduism", "lang": "en",
+  "id": "reel05-the-father",
+  "theme": "struggle-04 ageing parent",
+  "traditions": "Islam vs Hinduism",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel05-the-father.mp4",
-  "caption": "Your father is getting old. Some days he forgets your name.\n\nIslam says: lower to him the wing of humility. The one who carried you is now carried. And the door to paradise is at his feet.\n\nHinduism says: you were born owing a debt to your parents. Pitri rina. Caring for him is not a kindness you are doing. It is a debt you are paying.\n\nBoth traditions refuse to call it charity. It is what you owe. And somehow that makes it easier, not harder.\n\nStruggle 4 of 20. Not a kindness. A debt.\n\nFive traditions. One problem. Your move.",
-  "hashtags": "#onepriceseries #parents #birr #dharma #islam #hinduism #family #elderlycare #faith #gratitude",
-  "scheduled": "2026-11-25", "slot": "evening", "posted_media_id": null
+  "caption": "In plain terms: looking after an ageing parent is not a favour you are doing him. Islam and Hinduism both say it is something you already owe, because he did it for you first. Calling it a debt instead of a kindness takes the resentment out of it.\n\nYour father is getting old. Some days he forgets your name.\n\nIslam says: lower to him the wing of humility. The one who carried you is now carried. And the door to paradise is at his feet.\n\nHinduism says: you were born owing a debt to your parents. Pitri rina. Caring for him is not a kindness you are doing. It is a debt you are paying.\n\nBoth traditions refuse to call it charity. It is what you owe. And somehow that makes it easier, not harder.\n\nStruggle 4 of 20. Not a kindness. A debt.\n\nFive traditions. One problem. Your move.",
+  "hashtags": "#onepriceseries #parents #elderlycare #birr #dharma #islam #hinduism #family #gratitude #faith #caregiving #respect #religion #philosophy #selfawareness",
+  "scheduled": "2026-11-25",
+  "slot": "evening",
+  "posted_media_id": null
  },
  {
-  "id": "reel06-the-meeting", "theme": "struggle-05 anxiety", "traditions": "Psychology vs Islam", "lang": "en",
+  "id": "reel06-the-meeting",
+  "theme": "struggle-05 anxiety",
+  "traditions": "Psychology vs Islam",
+  "lang": "en",
   "video_url": "https://raw.githubusercontent.com/malridha/oneprice-media/main/reels/reel06-the-meeting.mp4",
-  "caption": "You cannot sleep. The meeting is at nine. Your mind is running the room over and over.\n\nA psychologist would say: write the worst outcome down, in full, right now. Then read it. You would survive it. Fear shrinks when it is looked at.\n\nAn imam would say: the last words before sleep are not about the meeting. They are the night supplication. You have done your part. The rest is handed over. Literally, out of your hands.\n\nOne faces the fear. One hands it over. Both get you to sleep.\n\nStruggle 5 of 20. Face it, or hand it over.\n\nFive traditions. One problem. Your move.",
-  "hashtags": "#onepriceseries #anxiety #sleep #tawakkul #islam #psychology #cbt #mentalhealth #faith #selfawareness",
-  "scheduled": "2026-11-26", "slot": "evening", "posted_media_id": null
+  "caption": "In plain terms: when fear keeps you awake, you can either look straight at the worst case until it shrinks, or decide you have done your part and let the result go. Psychology teaches the first, Islam teaches the second. Both work because both stop the mind from running in circles.\n\nYou cannot sleep. The meeting is at nine. Your mind is running the room over and over.\n\nA psychologist would say: write the worst outcome down, in full, right now. Then read it. You would survive it. Fear shrinks when it is looked at.\n\nAn imam would say: the last words before sleep are not about the meeting. They are the night supplication. You have done your part. The rest is handed over. Literally, out of your hands.\n\nOne faces the fear. One hands it over. Both get you to sleep.\n\nStruggle 5 of 20. Face it, or hand it over.\n\nFive traditions. One problem. Your move.",
+  "hashtags": "#onepriceseries #anxiety #insomnia #sleep #tawakkul #islam #psychology #cbt #mentalhealth #stress #faith #selfawareness #overthinking #religion #calm",
+  "scheduled": "2026-11-26",
+  "slot": "evening",
+  "posted_media_id": null
  }
 ]
