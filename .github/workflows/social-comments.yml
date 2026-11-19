@@ -1,0 +1,31 @@
+name: Social — comment agent
+on:
+  schedule:
+    - cron: "0 4,10,16 * * *"   # 08:00, 14:00, 20:00 Dubai
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: social-comments
+jobs:
+  comments:
+    runs-on: ubuntu-latest
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_API_BASE: ${{ vars.IG_API_BASE }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      AUTO_REPLY: ${{ vars.AUTO_REPLY || '0' }}
+      HIDE_SPAM: ${{ vars.HIDE_SPAM || '0' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Review comments
+        run: python social/reply_agent.py
+      - name: Commit log and digest
+        run: |
+          git config user.name "oneprice-bot"
+          git config user.email "oneprice.series@gmail.com"
+          git add social/comments_log.json social/comments_digest.md
+          git diff --cached --quiet || git commit -m "comments: digest [skip ci]"
+          git push

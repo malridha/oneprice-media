@@ -1,0 +1,28 @@
+name: Social — insights
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 07:30 Dubai daily
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: social-insights
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_API_BASE: ${{ vars.IG_API_BASE }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Pull insights
+        run: python social/pull_insights.py
+      - name: Commit leaderboard
+        run: |
+          git config user.name "oneprice-bot"
+          git config user.email "oneprice.series@gmail.com"
+          git add social/insights.json social/insights.md
+          git diff --cached --quiet || git commit -m "insights: daily [skip ci]"
+          git push
