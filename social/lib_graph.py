@@ -61,7 +61,8 @@ def require_env():
 
 
 def me():
-    return get("me", fields="id,username,account_type")
+    # Query the IG account node directly: works on both graph.instagram.com and graph.facebook.com
+    return get(IG_USER_ID, fields="id,username")
 
 
 def publish_reel(video_url, caption, share_to_feed=True, poll_seconds=15, max_wait=600):
