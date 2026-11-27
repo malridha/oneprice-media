@@ -1,4 +1,4 @@
-# One Price — reel leaderboard (2026-11-26)
+# One Price — reel leaderboard (2026-11-27)
 
 | rank | reel | theme | traditions | plays | saves | shares | saves+shares/1k | avg watch |
 |---|---|---|---|---|---|---|---|---|
